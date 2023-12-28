@@ -4,7 +4,7 @@ This repository contains code for training a convolutional neural network (CNN) 
 
 ## Files
 
-- **`training(1).ipynb`**: Jupyter Notebook for the CNN model training.
+- **`training.ipynb`**: Jupyter Notebook for the CNN model training.
 - **`MNIST Dataset JPG format`**: Jupyter Notebook exploring OpenCV and reading .jpg MNIST files.
 - **`streamlit_app.py`**: Python script for the Streamlit web app.
 - **`my_model.pth`**: Saved model weights file.
