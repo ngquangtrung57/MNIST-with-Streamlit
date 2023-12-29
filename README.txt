@@ -6,7 +6,7 @@ This repository contains code for training a convolutional neural network (CNN) 
 
 - **`training.ipynb`**: Jupyter Notebook for the CNN model training.
 - **`MNIST Dataset JPG format`**: .jpg MNIST files.
-- **`streamlit_app.py`**: Python script for the Streamlit web app.
+- **`Streamlit Interface.py`**: Python script for the Streamlit web app.
 - **`my_model.pth`**: Saved model weights file.
 
 ## Model Training 
@@ -31,7 +31,7 @@ The Streamlit web app (`streamlit_app.py`) allows users to draw a digit on a can
 
 1. Install the required libraries
 2. Open a terminal and navigate to the project directory.
-3. Run the Streamlit app: `streamlit run streamlit_app.py`.
+3. Run the Streamlit app: `streamlit run Streamlit Interface.py`.
 4. Draw a digit on the canvas, and the app will predict the digit.
 
 ### Web App Features
